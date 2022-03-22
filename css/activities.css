@@ -29,6 +29,9 @@
     height: 70vh;
 
 }
+.card{
+    box-shadow:0 8px 8px -4px  #0a1238;
+}
 .card img{
     height: 40vh;
 }
@@ -69,4 +72,48 @@
 }
 #btn-watamu:hover{
     background-color: #c7a793;
+}
+#btn-longonot{
+    background-color: #acb268;
+    border: 2px solid #0a1238;
+    color: #fff;
+}
+#btn-longonot:hover{
+    background-color: #0a1238;
+    border: 2px solid #acb268;
+}
+#btn-kenya{
+    background-color: #a2bed9;
+    border: 2px solid #0a1238;
+    color: #fff;
+}
+#btn-kenya:hover{
+    background-color: #0a1238;
+    border: 2px solid #acb268;
+}#btn-turkana{
+    background-color: #c7a793;
+    border: 2px solid #0a1238;
+    color: #fff;
+}
+#btn-turkana:hover{
+    background-color: #0a1238;
+    border: 2px solid #c7a793;
+}
+
+/* International Destinations */
+#international{
+    margin-top: 2%;
+}
+.local2 {
+    font-size: 8vh;
+    font-weight: bold;
+    line-height: 1.8;
+    color: #fff;
+    margin: 5% 0 0 3%;
+}
+#world{
+    background-image: url('https://images.unsplash.com/photo-1613169620329-6785c004d900?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
 }
