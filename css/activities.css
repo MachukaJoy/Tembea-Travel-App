@@ -116,4 +116,30 @@
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
+    background-position: center;
+    height: 70vh;
+}
+#international-activities{
+    height: 50vh;
+
+}
+#activities{
+    background-color: #a2bed9;
+    color: #0a1238;
+    font-weight: bold;
+}
+.list-group-item:hover{
+    background-color: #014275;
+    color: #fff;
+}
+#btn-dubai{
+    background-color: #256b75;
+    border: 2px solid #0a1238;
+
+}
+#btn-dubai:hover{
+    background-color: #0a1238;
+    border: 2px solid #256b75;
+    color: #256b75;
+
 }
