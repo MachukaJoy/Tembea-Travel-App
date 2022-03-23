@@ -32,9 +32,13 @@ footer>div>img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+<<<<<<< HEAD
+}
+=======
   margin-left: 750px;
   margin-bottom: 50px;
 }
 a:hover{
   color: red;
 }
+>>>>>>> e34ece1da277fd863bebb2d5aca626d2573c2929
