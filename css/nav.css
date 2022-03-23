@@ -21,7 +21,11 @@ footer>div>img {
 }
 
 .foot-img {
+  margin-top: 2000px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+a:hover{
+  color: red;
 }
