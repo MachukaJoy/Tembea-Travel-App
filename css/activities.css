@@ -148,7 +148,7 @@
 #btn-dubai:hover{
     background-color: #0a1238;
     border: 2px solid #256b75;
-    color: #256b75;
+    color: #fff;
 
 }
 .six{
@@ -215,4 +215,13 @@
 }
 #main-activity8 h6{
     color: #d08737;
+}
+/* More Activities */
+#more-activities{
+    background-image: url('https://images.unsplash.com/photo-1592971622425-414e98ecd65c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
 }
