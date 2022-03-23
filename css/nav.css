@@ -1,15 +1,22 @@
-.navbar .navbar-brand img{
+.header .container-fluid {
+  background-color: transparent;
+}
+
+.navbar .navbar-brand img {
   width: 150px;
   height: 60px
 }
-.navbar .nav-item{
+
+.navbar .nav-item {
   font-weight: bolder;
   font-size: 20px;
- 
+
 }
-.navbar .nav-item .nav-link{
-  color:whitesmoke;
+
+.navbar .nav-item .nav-link {
+  color: whitesmoke;
 }
+
 footer>div {
   display: flex;
   justify-content: center;
