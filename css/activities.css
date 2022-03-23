@@ -93,11 +93,12 @@
 }#btn-turkana{
     background-color: #c7a793;
     border: 2px solid #0a1238;
-    color: #fff;
+    color: #0a1238;
 }
 #btn-turkana:hover{
     background-color: #0a1238;
     border: 2px solid #c7a793;
+    color: #fff;
 }
 
 /* International Destinations */
@@ -143,12 +144,23 @@
     color: #256b75;
 
 }
+.six .hawaii{
+    color: #4fb69d;
+}
 /* Activities section */
-#main-activity1 .card-body img{
+#main-activity1 .card-body img,
+#main-activity2 .card-body img,
+#main-activity3 .card-body img,
+#main-activity4 .card-body img,
+#main-activity5 .card-body img,
+#main-activity6 .card-body img,
+#main-activity7 .card-body img,
+#main-activity8 .card-body img{
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cover;
+    background-size: cover;
 
 }
 .card-footer{
@@ -160,4 +172,22 @@
     color: #6bcdef;
     
     
+}
+#main-activity2 h6{
+    color: #31410c;
+}
+#main-activity3 h6{
+    color: #111111;
+}
+#main-activity4 h6{
+    color: #e7622d;
+}
+#main-activity5 h6{
+    color: #0a1238;
+}
+#main-activity6 h6{
+    color: #d53c29;
+}
+#main-activity8 h6{
+    color: #d08737;
 }
