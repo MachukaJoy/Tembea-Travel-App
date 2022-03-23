@@ -29,82 +29,100 @@
     height: 70vh;
 
 }
-.card{
-    box-shadow:0 8px 8px -4px  #0a1238;
+
+.card {
+    box-shadow: 0 8px 8px -4px #0a1238;
 }
-.card img{
+
+.card img {
     height: 40vh;
 }
-.card-title{
+
+.card-title {
     text-align: center;
     font-size: 4vh;
     font-weight: bold;
     color: #0a1238;
 }
-.one{
+
+.one {
     background-color: #88b5b0;
 }
-#btn-mombasa{
+
+#btn-mombasa {
     background-color: #88b5b0;
     border: 2px solid #0a1238;
 }
-#btn-mombasa:hover{
+
+#btn-mombasa:hover {
     background-color: #0a1238;
     color: #88b5b0;
 }
-.two{
+
+.two {
     background-color: #acb268;
 }
-#btn-mara{
+
+#btn-mara {
     background-color: #fff;
     border: 2px solid #0a1238;
     color: #acb268;
 }
-#btn-mara:hover{
+
+#btn-mara:hover {
     background-color: #0a1238;
     color: #acb268;
 }
 
-#btn-watamu{
+#btn-watamu {
     background-color: #fff;
     border: 2px solid #0a1238;
     color: #0a1238;
 }
-#btn-watamu:hover{
+
+#btn-watamu:hover {
     background-color: #c7a793;
 }
-#btn-longonot{
+
+#btn-longonot {
     background-color: #acb268;
     border: 2px solid #0a1238;
     color: #fff;
 }
-#btn-longonot:hover{
+
+#btn-longonot:hover {
     background-color: #0a1238;
     border: 2px solid #acb268;
 }
-#btn-kenya{
+
+#btn-kenya {
     background-color: #a2bed9;
     border: 2px solid #0a1238;
     color: #fff;
 }
-#btn-kenya:hover{
+
+#btn-kenya:hover {
     background-color: #0a1238;
     border: 2px solid #acb268;
-}#btn-turkana{
+}
+
+#btn-turkana {
     background-color: #c7a793;
     border: 2px solid #0a1238;
     color: #0a1238;
 }
-#btn-turkana:hover{
+
+#btn-turkana:hover {
     background-color: #0a1238;
     border: 2px solid #c7a793;
     color: #fff;
 }
 
 /* International Destinations */
-#international{
+#international {
     margin-top: 2%;
 }
+
 .local2 {
     font-size: 8vh;
     font-weight: bold;
@@ -112,7 +130,8 @@
     color: #fff;
     margin: 5% 0 0 3%;
 }
-#world{
+
+#world {
     background-image: url('https://images.unsplash.com/photo-1613169620329-6785c004d900?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
     background-repeat: no-repeat;
     background-size: cover;
@@ -120,58 +139,77 @@
     background-position: center;
     height: 70vh;
 }
-#international-activities{
+
+#international-activities {
     height: 50vh;
 
 }
-#activities{
+
+.h3{
+    color: #fff;
+    font-size: 8vh;
+    text-align: center;
+    font-style: italic;
+}
+#activities {
     background-color: #a2bed9;
     color: #0a1238;
     font-weight: bold;
 }
-.list-group-item:hover{
+
+.list-group-item:hover {
     background-color: #014275;
     color: #fff;
 }
-.five{
+
+.five {
     background-color: #1d5a67;
 }
-#dubai-list li{
+
+#dubai-list li {
     color: #eac9a7;
 
 }
-#btn-dubai{
+
+#btn-dubai {
     background-color: #256b75;
     border: 2px solid #0a1238;
 
 }
-#btn-dubai:hover{
+
+#btn-dubai:hover {
     background-color: #0a1238;
     border: 2px solid #256b75;
     color: #fff;
 
 }
-.six{
+
+.six {
     background-color: #a2bed9;
 }
-.six .hawaii{
+
+.six .hawaii {
     color: #4fb69d;
 }
-#hawaii-list li{
+
+#hawaii-list li {
     color: #0a1238;
 }
-#btn-hawaii{
+
+#btn-hawaii {
     background-color: #fff;
     border: 2px solid #0a1238;
     color: #4fb69d;
 
 }
-#btn-hawaii:hover{
+
+#btn-hawaii:hover {
     background-color: #4fb69d;
-    border: 2px solid ;
+    border: 2px solid;
     color: #0a1238;
 
 }
+
 /* Activities section */
 #main-activity1 .card-body img,
 #main-activity2 .card-body img,
@@ -180,7 +218,7 @@
 #main-activity5 .card-body img,
 #main-activity6 .card-body img,
 #main-activity7 .card-body img,
-#main-activity8 .card-body img{
+#main-activity8 .card-body img {
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -188,62 +226,72 @@
     background-size: cover;
 
 }
-.card-footer{
+
+.card-footer {
     background-color: #fff;
 }
-.card-footer h6{
+
+.card-footer h6 {
     text-align: center;
     font-size: 3.5vh;
     color: #6bcdef;
-    
-    
+
+
 }
-#main-activity2 h6{
+
+#main-activity2 h6 {
     color: #31410c;
 }
-#main-activity3 h6{
+
+#main-activity3 h6 {
     color: #111111;
 }
-#main-activity4 h6{
+
+#main-activity4 h6 {
     color: #e7622d;
 }
-#main-activity5 h6{
+
+#main-activity5 h6 {
     color: #0a1238;
 }
-#main-activity6 h6{
+
+#main-activity6 h6 {
     color: #d53c29;
 }
-#main-activity8 h6{
+
+#main-activity8 h6 {
     color: #d08737;
 }
+
 /* More Activities */
-#more-activities{
+#more-activities {
     background-image: url('https://images.unsplash.com/photo-1592971622425-414e98ecd65c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-#main2{
+
+#main2 {
     color: #a84856;
 }
 
-.footer-heading{
+.footer-heading {
     text-align: center;
     font-size: 4vh;
     color: #0a1238;
     font-style: italic;
     font-weight: bold;
 }
-.copyright a{
+
+.copyright a {
     text-align: center;
     text-decoration: none;
 }
+
 @media (max-width: 576px) {
-    #last-image{
+    #last-image {
         width: 100%;
         object-fit: cover;
         height: 50vh;
     }
-
-
- }
+}
