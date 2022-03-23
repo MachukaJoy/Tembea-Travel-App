@@ -1,0 +1,31 @@
+.navbar .navbar-brand img{
+  width: 150px;
+  height: 60px
+}
+.navbar .nav-item{
+  font-weight: bolder;
+  font-size: 20px;
+ 
+}
+.navbar .nav-item .nav-link{
+  color:whitesmoke;
+}
+footer>div {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+footer>div>img {
+  padding: 20px;
+}
+
+.foot-img {
+  margin-top: 2000px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+a:hover{
+  color: red;
+}
