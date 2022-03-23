@@ -144,8 +144,26 @@
     color: #256b75;
 
 }
+.six{
+    background-color: #a2bed9;
+}
 .six .hawaii{
     color: #4fb69d;
+}
+#text-6 .card-text ul li{
+    color: #fff;
+}
+#btn-hawaii{
+    background-color: #fff;
+    border: 2px solid #0a1238;
+    color: #4fb69d;
+
+}
+#btn-hawaii:hover{
+    background-color: #4fb69d;
+    border: 2px solid ;
+    color: #0a1238;
+
 }
 /* Activities section */
 #main-activity1 .card-body img,
