@@ -1,15 +1,22 @@
-.navbar .navbar-brand img{
+.header .container-fluid {
+  background-color: transparent;
+}
+
+.navbar .navbar-brand img {
   width: 150px;
   height: 60px
 }
-.navbar .nav-item{
+
+.navbar .nav-item {
   font-weight: bolder;
   font-size: 20px;
- 
+
 }
-.navbar .nav-item .nav-link{
-  color:whitesmoke;
+
+.navbar .nav-item .nav-link {
+  color: whitesmoke;
 }
+
 footer>div {
   display: flex;
   justify-content: center;
@@ -21,7 +28,17 @@ footer>div>img {
 }
 
 .foot-img {
+  margin-top:300px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+<<<<<<< HEAD
 }
+=======
+  margin-left: 750px;
+  margin-bottom: 50px;
+}
+a:hover{
+  color: red;
+}
+>>>>>>> e34ece1da277fd863bebb2d5aca626d2573c2929

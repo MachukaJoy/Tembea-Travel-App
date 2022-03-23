@@ -1,0 +1,43 @@
+.whatwedo h1{
+  text-align: center;
+}
+.whatwedo p{
+  font-size: small;
+}
+.contact{
+  text-align: center;
+}
+.photos{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.photos #pic1, .photos #pic2, .photos #pic3, .photos #pic4, .photos #pic5{
+  border-radius: 15px;
+}
+.form{
+  display: block;
+  margin-left: 3%;
+  margin-right: 3%;
+
+}
+.conta{
+  background-image: url(/Tembea-Travel-App/images/ezgif.com-gif-maker.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 180vh;
+  background-attachment: fixed;
+  
+}
+.form #firstname, .form #lastname, .form #email{
+  border-radius: 8px;
+
+}
+
+ .btn #submit{
+  margin-left: 35%;
+  justify-content: center;
+  border-radius: 20px;
+  color: white;
+  background-color: black; 
+  position: absolute;
+} 
