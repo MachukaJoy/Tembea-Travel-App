@@ -1,3 +1,6 @@
+.header .container-fluid{
+  background-color: transparent;
+}
 .navbar .navbar-brand img{
   width: 150px;
   height: 60px
