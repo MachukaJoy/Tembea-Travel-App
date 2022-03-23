@@ -133,6 +133,13 @@
     background-color: #014275;
     color: #fff;
 }
+.five{
+    background-color: #1d5a67;
+}
+#dubai-list li{
+    color: #eac9a7;
+
+}
 #btn-dubai{
     background-color: #256b75;
     border: 2px solid #0a1238;
@@ -150,8 +157,8 @@
 .six .hawaii{
     color: #4fb69d;
 }
-#text-6 .card-text ul li{
-    color: #fff;
+#hawaii-list li{
+    color: #0a1238;
 }
 #btn-hawaii{
     background-color: #fff;
