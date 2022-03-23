@@ -1,79 +1,140 @@
-*{
-    padding:0 ;
-    margin:0;
+* {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
-    font-family: 'ABeeZee', sans-serif;;
-    }
-    .get-heading{
-    position:absolute;
+    font-family: 'ABeeZee', sans-serif;
+    ;
+}
+
+.get-heading {
+    position: absolute;
     text-align: center;
     margin-top: 340px;
     margin-left: 400px;
     color: white;
     font-weight: bold;
     font-size: 70px;
-    }
-    .get-intro{
+}
+
+.get-intro {
     margin-top: 100px;
-    margin-left:0px;
-    color:black;
+    margin-left: 0px;
+    color: black;
     text-align: center;
     margin-bottom: 100px;
     font-size: 20px;
-    
-    }
-    .contact-background-1{
+
+}
+
+.contact-background-1 {
     background-image: url(/Tembea-Travel-App/images/elephants.jpg);
     position: cover;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height:800px;
-    margin:25px;
-    
-    }
-    .yellow{
-    color:rgb(207, 207, 6);
-    }
-    .crimson{
-    color:red;
+    height: 800px;
+    margin: 25px;
+
+}
+
+.yellow {
+    color: rgb(207, 207, 6);
+}
+
+.crimson {
+    color: red;
     opacity: .90;
-    }
-    .form{
-        color:grey;
-        position: absolute;
-        margin-left: 80px;
-        margin-right: 80px;
-        background-image: url(/Tembea-Travel-App/images/lions.jpg);
-        color:white;
-        height:800px;
-        width:1500px;
-        opacity: 1;
-        background-size: cover;
-        background-repeat: no-repeat;
-        }
-        .form-header{
-        color:white;
-        margin-left: 450px;
-        position: absolute;
-        margin-top: 20px;
-        
-        }
-        .header-background{
-        background-color: black;
-        height: 100px;
-        opacity: .78;
-        }
-        .kindly{
-        margin-left: 400px;
-        margin-top: 100px;
-        font-weight: bold;
-        font-size: 22px;
-        }
-        .travel-select{
-        background:rgb(32, 31, 31);
-        color: white;
-        border-radius: 6px;
-        margin-left: 20px;
-        }
-    
+}
+
+.form {
+    color: grey;
+    position: absolute;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-image: url(/Tembea-Travel-App/images/lions.jpg);
+    color: white;
+    height: 800px;
+    width: 1500px;
+    opacity: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-header {
+    color: white;
+    margin-left: 450px;
+    position: absolute;
+    margin-top: 20px;
+
+}
+
+.header-background {
+    background-color: black;
+    height: 100px;
+    opacity: .78;
+}
+
+.kindly {
+    margin-left: 400px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.travel-select {
+    background: rgb(32, 31, 31);
+    color: white;
+    border-radius: 6px;
+    margin-left: 20px;
+}
+
+.trip-heading {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 600px;
+    font-size: 60px;
+    color: black;
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.trip-brief {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 1110px;
+}
+
+.destination {
+    margin-left: 20px;
+    margin-top: 90px;
+    color: black;
+    background-color: rgb(200, 190, 190);
+    opacity: 0.80;
+    height: 800px;
+}
+
+.activities {
+    margin-top: 90px;
+    color: black;
+}
+
+.trip-background {
+    background-image: url(/Tembea-Travel-App/images/kayak.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+    margin: 80px;
+
+    margin-left: 100px;
+}
+
+.trip-header-bg {
+    background-color: black;
+
+}
+
+.green {
+    color: rgb(4, 98, 4);
+}
