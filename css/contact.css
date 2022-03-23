@@ -11,5 +11,16 @@
   text-align: center;
 }
 .form{
-  display: flex;
+  display: block;
+  margin-left: 3%;
+  margin-right: 3%;
+
+}
+.conta{
+  background-color: goldenrod;
+}
+.form #message{
+  width: 70%;
+  height: 40px;
+  margin-top: 2%;
 }
