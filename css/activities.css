@@ -226,3 +226,24 @@
 #main2{
     color: #a84856;
 }
+
+.footer-heading{
+    text-align: center;
+    font-size: 4vh;
+    color: #0a1238;
+    font-style: italic;
+    font-weight: bold;
+}
+.copyright a{
+    text-align: center;
+    text-decoration: none;
+}
+@media (max-width: 576px) {
+    #last-image{
+        width: 100%;
+        object-fit: cover;
+        height: 50vh;
+    }
+
+
+ }
