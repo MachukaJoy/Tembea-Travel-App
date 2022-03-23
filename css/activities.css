@@ -150,6 +150,13 @@
     font-size: 8vh;
     text-align: center;
     font-style: italic;
+    display: none;
+}
+em{
+    color: #f79f30;
+}
+.hawaiian{
+    color: #a84856;
 }
 #activities {
     background-color: #a2bed9;
