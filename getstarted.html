@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
     <title>Tembea</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
@@ -50,38 +53,40 @@
             <button class="discover-button" id="discover">Discover</button>
         </div>
         <div>
-            <p class="get-intro">All we need is some information on what makes you feel at peace or what makes you
-                excited.</br></br> Do you get off the
+            <p class="get-intro fs-4 fw-bold">All we need is some information on what makes you feel at peace or what makes you
+                excited.</br>Do you get off the
                 feeling of Adrenalin, or are you more of a calm and tranquil individual?</br></br>Do you fancy the
                 big
-                five or maybe the sound of waves?.</br></br>Allow us to tailor an experience of a life time wether
+                five or maybe the sound of waves?.</br>Allow us to tailor an experience of a life time whether
                 you
                 are travelling alone or come as
                 a group</p>
         </div>
-        <form class="form">
-            <div class="header-background">
-                <h1 class="form-header">Help us Tailor your experience</h1>
-            </div>
-            <div class="kindly">
-                <h1>Kindly let us know</h1>
-                <label>Your travel budget </label>
-                <select class="travel-select" id="budget">
-                    <option>Budget</option>
-                    <option value="low">10,000ksh-30,000ksh</option>
-                    <option value="mid">50,000ksh-150,00ksh</option>
-                    <option value="high">200,000ksh and above</option>
-                </select></br></br>
-                <label>where would you say you enjoy traveling to</label>
-                <select class="travel-select" id="destination">
-                    <option>Travel preference</option>
-                    <option value="beach">I like the beach</option>
-                    <option value="mountain">I prefer the mountains</option>
-                    <option value="wildlife">Wild life does it for me</option>
-                </select></br></br>
-                <button class="submit" id="submit">submit</button>
-            </div>
-        </form>
+        <div class="container">
+            <form class="form">
+                <div class="header-background">
+                    <h1 class="form-header">Help us Tailor your experience</h1>
+                </div>
+                <div class="kindly">
+                    <h1>Kindly let us know</h1>
+                    <label>Your travel budget </label>
+                    <select class="travel-select" id="budget">
+                        <option disabled hidden selected>Budget</option>
+                        <option value="low">10,000ksh-30,000ksh</option>
+                        <option value="mid">50,000ksh-150,00ksh</option>
+                        <option value="high">200,000ksh and above</option>
+                    </select></br></br>
+                    <label>Where would you say you enjoy traveling to</label>
+                    <select class="travel-select" id="destination">
+                        <option disabled hidden selected>Travel preference</option>
+                        <option value="beach">I like the beach</option>
+                        <option value="mountain">I prefer the mountains</option>
+                        <option value="wildlife">Wild life does it for me</option>
+                    </select></br></br>
+                    <button class="submit" id="submit">submit</button>
+                </div>
+            </form>
+        </div>
         <div class="trip-background">
             <div class="trial">
                 <h3 class="trip-heading"><u>Let's find your destination</u></h3>
