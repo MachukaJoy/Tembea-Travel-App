@@ -12,22 +12,22 @@ submit.addEventListener("click", function (e) {
 });
 
 let destinationBeach = {
-  low: [" the beautiful kilifi", "the tamu watamu"," the mtwapa creek"],
-  mid: [" the amazing Diani !!", "Lamu tamu"],
-  high: [" the majestic maldives !!", " and Hawai","the beautiful Brazil", "the delight of Dubai"],
+  low: [" The beautiful kilifi", "The tamu watamu"," The Mtwapa creek"],
+  mid: [" The amazing Diani !!", "Lamu tamu"],
+  high: [" The majestic maldives", " and Hawai","the beautiful Brazil", "the delight of Dubai"],
 };
 
 let destinationMount = {
-  low: "the cool and amazing Ngong Hills!!",
-  mid: " the beautiful Fairmont MountKenya!!",
-  high: " the coveted Swiss Alps!!",
+  low: "The cool and amazing Ngong Hills!!",
+  mid: " The beautiful Fairmont MountKenya!!",
+  high: " The coveted Swiss Alps!!",
 };
 
 let destinationWild = {
   low: ["Nairobi National park","lake Nakuru National park"],
 
-  mid: ["the coveted Masai Mara", "the great Amboseli"],
-  high: ["the amazing Serengeti national park", 'Kruger National park'],
+  mid: ["The coveted Masai Mara", "the great Amboseli"],
+  high: ["The amazing Serengeti national park", 'Kruger National park'],
 };
 
 function destinationCheck() {
@@ -54,8 +54,8 @@ function destinationCheck() {
 
 function destinationFinal() {
   document.getElementById("destination-display").innerHTML =
-    "congtatulations!!, choose a destination out of" +
-    " " +
+    "Congratulations!!, You can choose a destination out of" +
+    " " + 
     destinationCheck() 
     document.getElementById("activities-display").innerHTML =
 
@@ -115,8 +115,11 @@ mountGroupmid = [
 mountGrouplow = ["Nature trails", "tag of war", "bird watching", "ziplining"];
 
 var wildSoloHigh = ["Hot air baloon", "dinner by the bush"];
+
 var wildSoloMedium = ["Game drive", "cultural visit", "cultural dances"];
-var wildSoloLow = ["opharnage", "nature walk", "bird watching"];
+
+var wildSoloLow = ["orphanage", "nature walk", "bird watching"];
+
 
 function activityCheck() {
   if (budget.value === "high" && destination.value === "beach") {
