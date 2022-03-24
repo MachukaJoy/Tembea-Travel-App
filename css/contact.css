@@ -3,6 +3,8 @@
 }
 .whatwedo p{
   font-size: small;
+  text-align: center;
+  padding: 20px;
 }
 .contact{
   text-align: center;
@@ -24,8 +26,9 @@
   background-image: url(../images/beach.jpeg);
   background-position: center;
   background-size: cover;
-  height: 180vh;
   background-attachment: fixed;
+  position: relative;
+  background-repeat: no-repeat;
   
 }
 .form #firstname, .form #lastname, .form #email{
@@ -41,3 +44,14 @@
   background-color: black; 
   position: absolute;
 } 
+@media only screen and (max-device-width: 1024px) {
+  .conta {
+    background-attachment: scroll;
+  }
+  
+}
+/* @media only screen and (max-width: 767px) {
+  .section {
+    padding-top: 30px;
+  }
+} */
