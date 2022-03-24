@@ -115,8 +115,11 @@ mountGroupmid = [
 mountGrouplow = ["Nature trails", "tag of war", "bird watching", "ziplining"];
 
 var wildSoloHigh = ["Hot air baloon", "dinner by the bush"];
+
 var wildSoloMedium = ["Game drive", "cultural visit", "cultural dances"];
+
 var wildSoloLow = ["orphanage", "nature walk", "bird watching"];
+
 
 function activityCheck() {
   if (budget.value === "high" && destination.value === "beach") {
