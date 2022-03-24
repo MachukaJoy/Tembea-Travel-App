@@ -1,17 +1,20 @@
-const myName = document.getElementById("name");
-const myEmail = document.getElementById("email");
-const myMessage = document.getElementById("enterYourMessage");
-const myForm = document.getElementById("form");
-const myButton = document.getElementById("submit");
+const firstName = document.getElementById("firstname");
+const lastName = document.getElementById("lastname");
+const email = document.getElementById("email");
+const message = document.getElementById("message");
+const submit = document.getElementById("submit");
 
-myButton.addEventListener("click", (e)=>{
+
+submit.addEventListener("click", (e) => {
   e.preventDefault()
-  checkInputs()
+  validate();
+
 })
-  
- function checkInputs(){
-  const nm = myName.value
-  const el = myEmail.value
-   const eym = myMessage.value
-  alert("This is the name: "+nm + "This is the email: "+el + "This is the message:  "+eym);
- }
+
+function validate() {
+  if (firstName.value === "" && lastName.value === "" && email.value === "" && message.value === "") {
+    alert("Please fill out form completely!")
+  } else {
+    alert(firstName.value + "" + ", Thankyou for reaching out. We'll get back to you shortly!");
+  }
+}
