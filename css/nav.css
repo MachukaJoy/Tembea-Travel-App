@@ -28,7 +28,7 @@ footer>div>img {
 }
 
 .foot-img {
-
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
