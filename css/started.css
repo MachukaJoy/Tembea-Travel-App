@@ -27,7 +27,7 @@
 }
 
 .contact-background-1 {
-    background-image: url(/Tembea-Travel-App/images/elephants.jpg);
+    background-image: url(../images/elephants.jpg);
     position: cover;
     background-position: center;
     background-size: cover;
@@ -50,7 +50,7 @@
     position: absolute;
     margin-left: 80px;
     margin-right: 80px;
-    background-image: url(/Tembea-Travel-App/images/lions.jpg);
+    background-image: url(../images/lions.jpg);
     color: white;
     height: 600px;
     width: 1500px;
@@ -117,18 +117,11 @@
 
 }
 
-/* .destination-display{
-        margin-left: 250px;
-        margin-top: 300px;
-        font-size: 50px;
-        color:white;
-        font-weight: bold;
-        } */
 .trip-background {
     margin-top: 900px;
     margin-left: 80px;
     margin-right: 80px;
-    background-image: url(/Tembea-Travel-App/images/boat.png);
+    background-image: url(../images/boat.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
