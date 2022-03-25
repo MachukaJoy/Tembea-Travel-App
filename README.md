@@ -26,11 +26,11 @@ Developing Tembea web application  will simplify the user’s decision making pr
 We came accross some very interesting facts during gathering the user requirements stage.
 
 Here's a snipet:
-* Did you know that people do reallylove travelling? :neutral_face::neutral_face:
-* These same people would just opt for staying at home to avoid the hectic work :anguished: :anguished:
-* Users really want to feel the value for their money :hushed::hushed:
-* Many users have had vacations basically to sleep just because they could come up with an itinerary of activities :anguished: :anguished::anguished: :anguished:
-* There's more tea where that came from  and solutions to these problems follow us for more :anguished: :anguished:
+* Did you know that people do really love travelling? :neutral_face::neutral_face:
+* These same people would just opt for staying at home to avoid the hectic planning. :anguished: :anguished:
+* Users really want to feel the value for their money when travelling :hushed::hushed:
+* Many users have had vacations basically to sleep in beautiful expensive sceneries just because they could not come up with an itinerary of activities :anguished: :anguished::anguished: :anguished:
+* There's more tea where that came from  and solutions to these insights. Follow us for more :anguished: :anguished:
 
 [Go Back to the top](#tembea-web-application)
 
