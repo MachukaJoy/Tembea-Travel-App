@@ -28,9 +28,9 @@ We came accross some very interesting facts during gathering the user requiremen
 Here's a snipet:
 * Did you know that people do really love travelling? :neutral_face::neutral_face:
 * These same people would just opt for staying at home to avoid the hectic planning. :anguished: :anguished:
-* Users really want to feel the value for their money when travelling :hushed::hushed:
-* Many users have had vacations basically to sleep in beautiful expensive sceneries just because they could not come up with an itinerary of activities :anguished: :anguished::anguished: :anguished:
-* There's more tea where that came from  and solutions to these insights. Follow us for more :anguished: :anguished:
+* Users really want to feel the value for their money when travelling. :hushed::hushed:
+* Many users have had vacations basically to sleep in beautiful expensive sceneries just because they could not come up with an itinerary of activities. :anguished: :anguished::anguished: :anguished:
+* There's more tea where that came from  and solutions to these insights. Follow us for more. :anguished: :anguished:
 
 [Go Back to the top](#tembea-web-application)
 
@@ -39,8 +39,8 @@ Here's a snipet:
 
 ## Setup-Installation-Requirements
 * The preferable browser to run this on is chrome.
-* Can run on any operating system or Android device 
-* Run by clicking the live link below and create an itinerary for yourself<br>
+* Can run on any operating system or Android device.
+* Run by clicking the live link below and create an itinerary for yourself.<br>
 
 The easiest way to run this code is to run the live link that takes you to the live page. Alternatively you could fork the project and clone it to your system by git clone repo-link. You then go to the folder created on your system and open your code editor for instance visual studio with the command  code . on the terminal. Once it opens run the index.html and view the page on your browser. 
 
@@ -55,11 +55,11 @@ SSH: `git clone git@github.com:MachukaJoy/Tembea-Travel-App.git`
 
 
 ## Known Bugs
-There are not any known bugs as at now. But feel free to let us know should you find any :smiley: :smiley:
+There are not any known bugs as at now. But feel free to let us know should you find any. :smiley: :smiley:
 
 ## Contributing
 
-We would love to continue improving this site. Please contribute :smiley: :smiley:
+We would love to continue improving this site. Please contribute. :smiley: :smiley:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
