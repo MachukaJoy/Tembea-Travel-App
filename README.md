@@ -40,7 +40,7 @@ Here's a snipet:
 ## Setup-Installation-Requirements
 * The preferable browser to run this on is chrome.
 * Can run on any operating system or Android device 
-* Run by clicking the live link below and order your pizza<br>
+* Run by clicking the live link below and create an itinerary for yourself<br>
 
 The easiest way to run this code is to run the live link that takes you to the live page. Alternatively you could fork the project and clone it to your system by git clone repo-link. You then go to the folder created on your system and open your code editor for instance visual studio with the command  code . on the terminal. Once it opens run the index.html and view the page on your browser. 
 
