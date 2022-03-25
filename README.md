@@ -21,7 +21,16 @@
 ## Description
 
 When most people want to travel, they have to make  intensive decisions on the place to visit. This requires a lot of time and can be a hectic process . In many cases people have been caught up in their busy daily schedule hence leading to ineffective planning which end up to poor and boring experiences.
- Developing Tembea web application  will simplify the user’s decision making process when it comes to vacation planning.  This will be achieved by suggesting destinations and activities to indulge in, according to their budget and interests at the time of travel.
+Developing Tembea web application  will simplify the user’s decision making process when it comes to vacation planning.  This will be achieved by suggesting destinations and activities to indulge in, according to their budget and interests at the time of travel.<br>
+
+We came accross some very interesting facts during gathering the user requirements stage.
+
+Here's a snipet:
+* Did you know that people do reallylove travelling? :neutral_face::neutral_face:
+* These same people would just opt for staying at home to avoid the hectic work :anguished: :anguished:
+* Users really want to feel the value for their money :hushed::hushed:
+* Many users have had vacations basically to sleep just because they could come up with an itinerary of activities :anguished: :anguished::anguished: :anguished:
+* There's more tea where that came from  and solutions to these problems follow us for more :anguished: :anguished:
 
 [Go Back to the top](#tembea-web-application)
 
@@ -37,14 +46,28 @@ The easiest way to run this code is to run the live link that takes you to the l
 
 
 HTTPS: `git clone https://github.com/MachukaJoy/Tembea-Travel-App.git`<br>
+SSH: `git clone git@github.com:MachukaJoy/Tembea-Travel-App.git`
 
 [Go Back to the top](#tembea-web-application)
 ## Live Site
+#### Click Here: (https://machukajoy.github.io/Tembea-Travel-App)
 
 
 
 ## Known Bugs
-There are not any known bugs as at now. But feel free to let us know should you find any.
+There are not any known bugs as at now. But feel free to let us know should you find any :smiley: :smiley:
+
+## Contributing
+
+We would love to continue improving this site. Please contribute :smiley: :smiley:
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
 
 [Go Back to the top](#tembea-web-application)
 
