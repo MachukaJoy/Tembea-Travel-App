@@ -1,0 +1,58 @@
+.header .container-fluid {
+  background-color: transparent;
+}
+
+.navbar .navbar-brand img {
+  width: 150px;
+  height: 60px
+}
+
+.navbar .nav-item {
+  font-weight: bolder;
+  font-size: 20px;
+
+}
+
+.navbar .nav-item .nav-link {
+  color: whitesmoke;
+}
+.navbar .nav-item .icon {
+  display: none;
+}
+
+footer>div {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+footer>div>img {
+  padding: 20px;
+}
+
+.foot-img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 600px) {
+  .navbar a:not(:first-child) {display: none;}
+  .navbar a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navbar.responsive {position: relative;}
+  .navbar.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}

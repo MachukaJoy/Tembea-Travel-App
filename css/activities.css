@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.heading {
+    font-size: 5vh;
+    font-weight: bold;
+    padding-top: 3%;
+    color: #0a1238;
+    text-align: center;
+}
+
+.local {
+    font-size: 8vh;
+    font-weight: bold;
+    line-height: 1.8;
+    color: #fff;
+    margin-left: 3%;
+}
+
+#welcome {
+    background-image: url('https://images.unsplash.com/photo-1496761523829-6ee70d7928aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1582&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    height: 70vh;
+
+}
+
+.card {
+    box-shadow: 0 8px 8px -4px #0a1238;
+}
+
+.card img {
+    height: 40vh;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 4vh;
+    font-weight: bold;
+    color: #0a1238;
+}
+
+.one {
+    background-color: #88b5b0;
+}
+
+#btn-mombasa {
+    background-color: #88b5b0;
+    border: 2px solid #0a1238;
+}
+
+#btn-mombasa:hover {
+    background-color: #0a1238;
+    color: #88b5b0;
+}
+
+.two {
+    background-color: #acb268;
+}
+
+#btn-mara {
+    background-color: #fff;
+    border: 2px solid #0a1238;
+    color: #acb268;
+}
+
+#btn-mara:hover {
+    background-color: #0a1238;
+    color: #acb268;
+}
+
+#btn-watamu {
+    background-color: #fff;
+    border: 2px solid #0a1238;
+    color: #0a1238;
+}
+
+#btn-watamu:hover {
+    background-color: #c7a793;
+}
+
+#btn-longonot {
+    background-color: #acb268;
+    border: 2px solid #0a1238;
+    color: #fff;
+}
+
+#btn-longonot:hover {
+    background-color: #0a1238;
+    border: 2px solid #acb268;
+}
+
+#btn-kenya {
+    background-color: #a2bed9;
+    border: 2px solid #0a1238;
+    color: #fff;
+}
+
+#btn-kenya:hover {
+    background-color: #0a1238;
+    border: 2px solid #acb268;
+}
+
+#btn-turkana {
+    background-color: #c7a793;
+    border: 2px solid #0a1238;
+    color: #0a1238;
+}
+
+#btn-turkana:hover {
+    background-color: #0a1238;
+    border: 2px solid #c7a793;
+    color: #fff;
+}
+#seven{
+    color: #c7a793;
+}
+
+/* International Destinations */
+#international {
+    margin-top: 2%;
+}
+
+.local2 {
+    font-size: 8vh;
+    font-weight: bold;
+    line-height: 1.8;
+    color: #fff;
+    margin: 5% 0 0 3%;
+}
+
+#world {
+    background-image: url('https://images.unsplash.com/photo-1613169620329-6785c004d900?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    height: 70vh;
+}
+
+#international-activities {
+    height: 50vh;
+
+}
+
+.h3{
+    color: #fff;
+    font-size: 8vh;
+    text-align: center;
+    font-style: italic;
+    display: none;
+}
+em{
+    color: #f79f30;
+}
+.hawaiian{
+    color: #a84856;
+}
+#activities {
+    background-color: #a2bed9;
+    color: #0a1238;
+    font-weight: bold;
+}
+
+.list-group-item:hover {
+    background-color: #014275;
+    color: #fff;
+}
+
+.five {
+    background-color: #1d5a67;
+}
+
+#dubai-list li {
+    color: #eac9a7;
+
+}
+
+#btn-dubai {
+    background-color: #256b75;
+    border: 2px solid #0a1238;
+
+}
+
+#btn-dubai:hover {
+    background-color: #0a1238;
+    border: 2px solid #256b75;
+    color: #fff;
+
+}
+
+.six {
+    background-color: #a2bed9;
+}
+
+.six .hawaii {
+    color: #4fb69d;
+}
+
+#hawaii-list li {
+    color: #0a1238;
+}
+
+#btn-hawaii {
+    background-color: #fff;
+    border: 2px solid #0a1238;
+    color: #4fb69d;
+
+}
+
+#btn-hawaii:hover {
+    background-color: #4fb69d;
+    border: 2px solid;
+    color: #0a1238;
+
+}
+
+/* Activities section */
+#main-activity1 .card-body img,
+#main-activity2 .card-body img,
+#main-activity3 .card-body img,
+#main-activity4 .card-body img,
+#main-activity5 .card-body img,
+#main-activity6 .card-body img,
+#main-activity7 .card-body img,
+#main-activity8 .card-body img {
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+
+}
+
+.card-footer {
+    background-color: #fff;
+}
+
+.card-footer h6 {
+    text-align: center;
+    font-size: 3.5vh;
+    color: #6bcdef;
+
+
+}
+
+#main-activity2 h6 {
+    color: #31410c;
+}
+
+#main-activity3 h6 {
+    color: #111111;
+}
+
+#main-activity4 h6 {
+    color: #e7622d;
+}
+
+#main-activity5 h6 {
+    color: #0a1238;
+}
+
+#main-activity6 h6 {
+    color: #d53c29;
+}
+
+#main-activity8 h6 {
+    color: #d08737;
+}
+
+/* More Activities */
+#more-activities {
+    background-image: url('https://images.unsplash.com/photo-1592971622425-414e98ecd65c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#main2 {
+    color: #a84856;
+}
+
+.footer-heading {
+    text-align: center;
+    font-size: 4vh;
+    color: #0a1238;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.copyright a {
+    text-align: center;
+    text-decoration: none;
+}
+
+@media (max-width: 576px) {
+    #last-image {
+        width: 100%;
+        object-fit: cover;
+        height: 50vh;
+    }
+}
